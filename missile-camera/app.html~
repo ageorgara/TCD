@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>2048 - Demo</title>
+		<link rel="stylesheet" href="app.css">
+		<script src="jquery.js"></script>
+		<script src="app.js"></script>
+	</head>
+	<body>
+		<span id="status">...</span>
+		<iframe id="iframe" src="http://gabrielecirulli.github.io/2048/" nwdisable nwfaketop></iframe>
+		<script src="controller.js"></script>
+	</body>
+</html>

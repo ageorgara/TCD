@@ -1,0 +1,18 @@
+threshold 230
+max_valid_diameter 3
+solid_center_diff 5
+solid_center_offset_left 3
+solid_center_offset_top 3
+solid_center_width 3
+solid_center_height 3
+valid_color_hue_saturation_threshold 30
+valid_color_range_yellow 255 255 255 255 0 0
+valid_color_range_yellow_hue 0 0
+valid_color_range_green 255 255 255 255 0 0
+valid_color_range_green_hue 0 0
+valid_color_range_red 222 242 194 214 193 213
+valid_color_range_red_hue 0 0
+valid_color_range_blue 184 204 176 186 214 234
+valid_color_range_blue_hue 0 0
+history_offset_y 64
+history_offset_x 64
