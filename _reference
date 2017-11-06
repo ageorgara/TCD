@@ -1,0 +1,17 @@
+
+
+2048 Game: https://gabrielecirulli.github.io/2048/
+/home/thanos/Desktop/nwjs-v0.13.3-linux-x64/nw /home/thanos/Desktop/2048-camera
+
+Missile Game: http://missile-game.bwhmather.com/
+/home/thanos/Desktop/nwjs-v0.13.3-linux-x64/nw /home/thanos/Desktop/missile-camera
+
+pixel-race : http://ned.im/pixel-race-game/game.html
+/home/thanos/Desktop/nwjs-v0.13.3-linux-x64/nw /home/thanos/Desktop/pixel-race
+
+xtype : http://phoboslab.org/xtype/
+/home/thanos/Desktop/nwjs-v0.13.3-linux-x64/nw /home/thanos/Desktop/xtype
+
+./Desktop/Tuc\ Controller\ Detector/main -w on -reflect on -r 320x240 -colordetect on -keephistory on -host 127.0.0.1 -port 6969
+
+./Desktop/Tuc\ Controller\ Detector/settings
